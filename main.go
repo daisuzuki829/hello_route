@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/daisuzuki829/RequestParamater/routes"
+	"github.com/daisuzuki829/hello_route/routes"
 	"github.com/gin-gonic/gin"
 )
 
